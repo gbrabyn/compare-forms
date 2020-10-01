@@ -1,0 +1,16 @@
+#experienceContainer > .experience {
+  padding-top: 2em;
+}
+
+#experienceContainer > .experience:not(:first-of-type) {
+  border-top: 2px solid #901602;
+}
+
+#saveRow {
+  margin-top: 3em;
+}
+
+#switchLang {
+  text-align: right;
+}
+
